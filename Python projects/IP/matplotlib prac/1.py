@@ -1,11 +1,15 @@
-# plotting graphs
-import numpy as np
-import math as mat
 import matplotlib.pyplot as plt
 
-x = np.arange(0, 1, mat.pi)
-y = np.sin(x)
+date = ["25/12", "26/12", "27/12"]
+temp = [8.5, 10.5, 6.8]
 
-plt.plot(x,y)
+plt.plot(date, temp, '.')
+plt.xlabel("Date")
+plt.ylabel("temp in degree celsius")
+plt.title("WTF")
+plt.grid(True)
+plt.yticks(temp)
+plt.xticks(date)
+
 plt.show()
 
