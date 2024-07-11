@@ -122,7 +122,7 @@ def login():
         pass
 
 def show():
-    with open("shell.txt", "r") as shell:
+    with open("./shell.txt", "r") as shell:
     # print(shell.readlines())
         print("All your todos are:")
         for todos in shell.readlines():
