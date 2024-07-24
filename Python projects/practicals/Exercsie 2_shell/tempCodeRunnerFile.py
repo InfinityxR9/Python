@@ -1,2 +1,0 @@
-mp:
-    #     print(emp)
