@@ -1,11 +1,7 @@
 # to find the combination of given two numbers
 
 def fact(num):
-    if num==1:
-        return 1
-    
-    if num == 0:
-        return 1
+    if num in [0,1]: return 1
 
     else:
         return num*fact(num-1)
