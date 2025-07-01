@@ -40,3 +40,19 @@ Information of book is:
 chup re
 Mobile number of the student is:546565465
 ----------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+Feedback send?: Yes
+E-Mail Id of User is:alphabeta@gamma.com
+Reported problem or gave a feedback on date:29-06-2025
+Problem reported or feedback given is:
+Mast maza aaya
+-------------------------------------------------------------------------------------------
+Date:29-09-2025
+The name of the student is:LOl
+The class and section of the student is:xi s1
+The name of the teacher is:Mr. Aryan Sisodiya
+the Admission Number of the student is:7258
+Information of book is: 
+lo pata nahi arry potte rbooks all books
+Mobile number of the student is:546456465
+----------------------------------------------------------------------------------------------
