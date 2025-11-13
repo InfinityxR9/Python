@@ -1,0 +1,19 @@
+Pandas
+    - Series intro
+    - DataFrame intro
+    - Series methods
+    - DataFrame methods
+    - GroupBy object
+    - Merging, Joining, concat
+    - Multi-index series and DataFrame
+    - Vectorised string operations - DataTime in pandas, Pivot Table
+
+MatplotLib
+    - Plotting
+    - Advanced Plotting
+
+Seaborn
+    - Plotting 1
+    - Plotting 2
+
+lec 124 (statistics start)
