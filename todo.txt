@@ -1,5 +1,4 @@
 Pandas
-    - Merging, Joining, concat
     - Multi-index series and DataFrame
     - Vectorised string operations - DataTime in pandas, Pivot Table
 
