@@ -1,6 +1,6 @@
 *db
 *log
 node_modules
-Python\ projects/Python/
 .idea/
 .vscode/
+.venv/
